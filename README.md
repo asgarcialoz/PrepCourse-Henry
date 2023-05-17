@@ -1,1 +1,2 @@
-Este es un proyecto de prueba para crear un repositorio
+Sofia
+Este es un ejemplo del modulo 2 para crear un repositorio y clonarlo
